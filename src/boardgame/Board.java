@@ -1,6 +1,6 @@
 package boardgame;
 
-import boardgame.Position;
+
 public class Board {
 
     private int rows;
